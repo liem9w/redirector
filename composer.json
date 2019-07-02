@@ -1,0 +1,36 @@
+{
+    "name": "morsekode/redirector",
+    "description": "Automatically creates Retour static redirects using an entry dump.",
+    "type": "craft-plugin",
+    "version": "0.1.0",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "redirector"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Jordan",
+            "homepage": "https://justinjordan.io"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0-RC1"
+    },
+    "autoload": {
+        "psr-4": {
+          "morsekode\\redirector\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "Redirector",
+        "handle": "redirector",
+        "hasCpSettings": false,
+        "hasCpSection": false,
+        "changelogUrl": "???",
+        "class": "morsekode\\redirector\\Redirector"
+    }
+}
