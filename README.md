@@ -2,6 +2,8 @@
 
 Automatically generates Retour redirects from a entry URI dump
 
+Fork update to run with Ctaft 4.0
+
 ## Installation
 
 Install via Composer with the following command:
