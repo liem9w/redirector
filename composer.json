@@ -2,7 +2,7 @@
     "name": "9thwonder/redirector",
     "description": "Automatically creates Retour static redirects using an entry dump.",
     "type": "craft-plugin",
-    "version": "0.1.0",
+    "version": "2.0.0",
     "keywords": [
         "craft",
         "cms",
