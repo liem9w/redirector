@@ -55,7 +55,7 @@ class Redirector extends Plugin
      *
      * @var string
      */
-    public $schemaVersion = '0.1.0';
+    public string $schemaVersion = '0.1.0';
 
     // Public Methods
     // =========================================================================
